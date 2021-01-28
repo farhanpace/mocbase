@@ -164,6 +164,10 @@ img.arrow-right {
     height: 180px;
 }
 
+.mvo-details {
+    max-width: 500px;
+}
+
 
 /*
 .box1 {
